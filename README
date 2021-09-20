@@ -1,0 +1,24 @@
+README Assignment 1: Tutnese Translation
+
+1) Luis Rivas
+   2365948
+   lrivas@chapman.edu
+   CPSC 350-03
+   Assignment 1: Tutnese Translation
+
+2) Model.h
+   Model.cpp
+   Translator.h
+   Translator.cpp
+   FileProcessor.h
+   FileProcessor.cpp
+   main.cpp
+
+3) No errors or deviations from the assignment specification
+
+4) I used https://www.youtube.com/watch?v=EaHFhms_Shw to learn file reading.
+   I used https://devdocs.io/cpp/io/manip/skipws to learn about noskipws so I can read white space from the input file. 
+   Worked alone.
+
+5) g++ *.cpp
+   ./a.out
